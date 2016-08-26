@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/nanoeru/termcol"
+	"github.com/umaumax/termcol"
 )
 
 func main() {
